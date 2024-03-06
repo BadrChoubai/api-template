@@ -1,0 +1,4 @@
+github.com/apple/pkl-go v0.5.1 h1:WYhM4Lw+5VbZs22jouwsUJMI7a8Y1g4gHE/QZ55cXMM=
+github.com/apple/pkl-go v0.5.1/go.mod h1:Z6NTpWLcopDFz04cHMZyw872tJ/t2MzhnxNdeZZ5eQY=
+github.com/gorilla/mux v1.8.1 h1:TuBL49tXwgrFYWhqrNgrUNEY92u81SPhu7sTdzQEiWY=
+github.com/gorilla/mux v1.8.1/go.mod h1:AKf9I4AEqPTmMytcMc0KkNouC66V3BtZ4qD5fmWSiMQ=
